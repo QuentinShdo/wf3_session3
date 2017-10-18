@@ -1,3 +1,5 @@
 # wf3_session3
 
-ici j'ajoute une ligne de texte
+je modifie la ligne de texte 
+
+et j'en ajoute
